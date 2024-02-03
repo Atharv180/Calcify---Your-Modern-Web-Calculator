@@ -1,0 +1,51 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+    position: relative;
+    margin-right: 580px;
+    margin-left: 580PX;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: rgb(51, 166, 205);
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
